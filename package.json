@@ -1,0 +1,13 @@
+{
+  "name": "@xdjs/music-nerd-brand",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Current Music Nerd logo exports and guidance for using them across xDJs projects.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node scripts/validate-assets.mjs"
+  }
+}

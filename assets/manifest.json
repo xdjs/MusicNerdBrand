@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "delivery": {
+    "source": "Tom",
+    "received": "2026-08-30",
+    "guidanceDate": "2026-08-27"
+  },
+  "colors": {
+    "musicNerdPink": {
+      "hex": "#FF75D8",
+      "srgb": [255, 117, 216]
+    }
+  },
+  "assets": [
+    {
+      "id": "specs-pink",
+      "path": "assets/logos/specs-pink.png",
+      "kind": "logo",
+      "sourceFilename": "specs-logo-pink.png",
+      "width": 2500,
+      "height": 2500,
+      "sha256": "5211b4538d1e0e7c89cee611f3550e6193d98b65893ae376c357c998ae633a1e"
+    },
+    {
+      "id": "specs-monochrome",
+      "path": "assets/logos/specs-monochrome.png",
+      "kind": "logo",
+      "sourceFilename": "specs-logo-bw.png",
+      "width": 2500,
+      "height": 2500,
+      "sha256": "1cefd90556cf777d9c51feff2c90d587f6fee1292e7ca99f43212512a2ba9852"
+    },
+    {
+      "id": "specs-social",
+      "path": "assets/logos/specs-social.png",
+      "kind": "logo",
+      "sourceFilename": "specs-logo-for-cropped-for-socials.png",
+      "width": 2500,
+      "height": 2500,
+      "sha256": "042a246ad3cb8cc0d51403f9ea5c9c00ecc6794b90f54f5516065b0b0a2d1ff3"
+    },
+    {
+      "id": "specs-isolated",
+      "path": "assets/logos/specs-isolated.png",
+      "kind": "logo",
+      "sourceFilename": "specs-in-isolation.png",
+      "width": 3325,
+      "height": 2336,
+      "sha256": "8b2dec1c2a2ada82ecbb91eeb19d5e577bbf30d2905d6f15ec08ce2ad82c1aba"
+    },
+    {
+      "id": "music-nerd-wordmark-black-field",
+      "path": "assets/logos/music-nerd-wordmark-black-field.png",
+      "kind": "logo",
+      "sourceFilename": "word-mark.png",
+      "width": 7500,
+      "height": 5475,
+      "sha256": "f005f0d3df76f0f4750037f86c87ffcb00e22299da354850f09b011862d8aca3"
+    },
+    {
+      "id": "logo-treatments-reference",
+      "path": "assets/reference/logo-treatments.png",
+      "kind": "reference",
+      "sourceFilename": "music-nerd-logo-treatments.png",
+      "width": 1456,
+      "height": 780,
+      "sha256": "e2fdeda67fcdd9175f2a17189c88f855ce095bf01478c1a58ad49cb86f3eb38e"
+    },
+    {
+      "id": "tom-usage-guidance-reference",
+      "path": "assets/reference/tom-usage-guidance.png",
+      "kind": "reference",
+      "sourceFilename": "guidance.png",
+      "width": 993,
+      "height": 889,
+      "sha256": "9e1792061e15c812bab0ab1f9b1572b8d81e9f56186364b7d9412f29e9727bdc"
+    }
+  ]
+}
